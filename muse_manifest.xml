@@ -1,28 +1,32 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461748974419">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461749309241">
   <folder name="css">
     <file name="site_global.css" crc="4015752830"/>
-    <file name="master_a-master.css" crc="276984904" ref="index:tany"/>
-    <file name="index.css" crc="172633600" ref="index"/>
-    <file name="tany.css" crc="3824114619" ref="tany"/>
+    <file name="master_a-master.css" crc="247373941" ref="tany:index"/>
+    <file name="tany.css" crc="497666120" ref="tany"/>
+    <file name="index.css" crc="4110098640" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tany"/>
     <file name="museutils.js" crc="3790713428" ref="index:tany"/>
     <file name="whatinput.js" crc="84559013" ref="index:tany"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:tany"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:tany"/>
     <file name="webpro.js" crc="329496574" ref="tany"/>
     <file name="musewpslideshow.js" crc="394033048" ref="tany"/>
     <file name="jquery.museoverlay.js" crc="4265131668" ref="tany"/>
     <file name="touchswipe.js" crc="497316881" ref="tany"/>
   </folder>
   <folder name="images">
+    <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr.png" crc="157198178" ref="index"/>
+    <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr_2x.png" crc="309039488" ref="index"/>
+    <file name="static1squarespace.jpg" crc="4292346992" ref="index"/>
+    <file name="u1802-6.png" crc="4269196159" ref="index"/>
+    <file name="u1802-6_2x.png" crc="3875960747" ref="index"/>
     <file name="u1572-10.png" crc="4169733813" ref="index:tany"/>
     <file name="u1572-10_2x.png" crc="349050130" ref="index:tany"/>
     <file name="u105-10.png" crc="3975439034" ref="index:tany"/>
     <file name="u105-10_2x.png" crc="523476462" ref="index:tany"/>
-    <file name="static1squarespace.jpg" crc="4292346992" ref="index"/>
     <file name="breezi_placeit-21.jpg" crc="3921139890" ref="index"/>
     <file name="musketeers_4.jpg" crc="3837680854" ref="index"/>
     <file name="12565481_10153252418866781_8940086477228205294_n-ieu819-fr.png" crc="512209311" ref="index"/>
@@ -61,10 +65,6 @@
     <file name="parsons_2x.png" crc="3802733911" seo="true" ref="index"/>
     <file name="30weeks.png" crc="190954752" seo="true" ref="index"/>
     <file name="30weeks_2x.png" crc="3942019037" seo="true" ref="index"/>
-    <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr.png" crc="157198178" ref="index"/>
-    <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr_2x.png" crc="504009256" ref="index"/>
-    <file name="u1802-6.png" crc="4269196159" ref="index"/>
-    <file name="u1802-6_2x.png" crc="3875960747" ref="index"/>
     <file name="logo_color.png" crc="431153753" seo="true" ref="tany"/>
     <file name="logo_color_2x.png" crc="431153753" seo="true" ref="tany"/>
     <file name="winning.jpg" crc="4258849014" seo="true" ref="tany"/>
@@ -82,6 +82,6 @@
     <file name="drafts60x46_2x.jpg" crc="4060617230" seo="true" ref="tany"/>
     <file name="loading.gif" crc="3815509949" ref="tany"/>
   </folder>
-  <file name="index.html" crc="3798127639" seo="true" mt="1461748248619" redirect="true"/>
-  <file name="tany.html" crc="76547911" seo="true" mt="1461748026854" redirect="true"/>
+  <file name="index.html" crc="331293527" seo="true" mt="1461748248619" redirect="true"/>
+  <file name="tany.html" crc="4061208578" seo="true" mt="1461748026854" redirect="true"/>
 </manifest>
