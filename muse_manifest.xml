@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461781640425">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461781846088">
   <folder name="css">
     <file name="site_global.css" crc="4015752830"/>
-    <file name="master_a-master.css" crc="247373941" ref="tany:index:igivemore:musketeers"/>
-    <file name="tany.css" crc="497666120" ref="tany"/>
-    <file name="index.css" crc="4110098640" ref="index"/>
+    <file name="master_a-master.css" crc="247373941" ref="igivemore:musketeers:tany:index"/>
     <file name="igivemore.css" crc="69882407" ref="igivemore"/>
     <file name="musketeers.css" crc="117313481" ref="musketeers"/>
+    <file name="tany.css" crc="497666120" ref="tany"/>
+    <file name="index.css" crc="4110098640" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tany:igivemore:musketeers"/>
@@ -29,7 +29,7 @@
     <file name="u1572-10_2x.png" crc="349050130" ref="index:tany:igivemore:musketeers"/>
     <file name="u105-10.png" crc="3975439034" ref="index:tany:igivemore:musketeers"/>
     <file name="u105-10_2x.png" crc="523476462" ref="index:tany:igivemore:musketeers"/>
-    <file name="breezi_placeit-21.jpg" crc="3921139890" ref="index:igivemore"/>
+    <file name="breezi_placeit-21.jpg" crc="3921139890" ref="index"/>
     <file name="musketeers_4.jpg" crc="3837680854" ref="index"/>
     <file name="12565481_10153252418866781_8940086477228205294_n-ieu819-fr.png" crc="512209311" ref="index"/>
     <file name="12565481_10153252418866781_8940086477228205294_n.jpg" crc="4032316062" ref="index"/>
@@ -85,6 +85,7 @@
     <file name="loading.gif" crc="3815509949" ref="tany:igivemore:musketeers"/>
     <file name="igm.png" crc="216191415" seo="true" ref="igivemore"/>
     <file name="igm_2x.png" crc="4278394829" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit-212.jpg" crc="3765243678" seo="true" ref="igivemore"/>
     <file name="breezi_placeit-21_2x.jpg" crc="118391603" seo="true" ref="igivemore"/>
     <file name="breezi_placeit.jpg" crc="3966771212" seo="true" ref="igivemore"/>
     <file name="breezi_placeit_2x.jpg" crc="3858696840" seo="true" ref="igivemore"/>
@@ -152,15 +153,15 @@
     <file name="musket_2x.png" crc="496424481" seo="true" ref="musketeers"/>
     <file name="2_logo.jpg" crc="4111072582" seo="true" ref="musketeers"/>
     <file name="2_logo_2x.jpg" crc="496057287" seo="true" ref="musketeers"/>
+    <file name="musketeers_42.jpg" crc="3928355297" seo="true" ref="musketeers"/>
     <file name="musketeers_4_2x.jpg" crc="495380279" seo="true" ref="musketeers"/>
     <file name="2_logo64x45.jpg" crc="503043402" seo="true" ref="musketeers"/>
     <file name="2_logo64x45_2x.jpg" crc="3763537429" seo="true" ref="musketeers"/>
     <file name="musketeers_468x45.jpg" crc="311830364" seo="true" ref="musketeers"/>
     <file name="musketeers_468x45_2x.jpg" crc="4000163459" seo="true" ref="musketeers"/>
-    <file name="musketeers_42.jpg" crc="3928355297" seo="true" ref="musketeers"/>
   </folder>
-  <file name="index.html" crc="476004386" seo="true" mt="1461781612796" redirect="true"/>
-  <file name="tany.html" crc="4061208578" seo="true" mt="1461748026854" redirect="true"/>
-  <file name="igivemore.html" crc="85551321" seo="true" mt="1461781235589" redirect="true"/>
-  <file name="musketeers.html" crc="4072431634" seo="true" mt="1461781612798" redirect="true"/>
+  <file name="index.html" crc="3869494935" seo="true" mt="1461781612796" redirect="true"/>
+  <file name="tany.html" crc="477562805" seo="true" mt="1461748026854" redirect="true"/>
+  <file name="igivemore.html" crc="4199040858" seo="true" mt="1461781235589" redirect="true"/>
+  <file name="musketeers.html" crc="255580314" seo="true" mt="1461781612798" redirect="true"/>
 </manifest>
