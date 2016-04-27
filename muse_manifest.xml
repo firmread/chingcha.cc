@@ -1,21 +1,23 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461749309241">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461781640425">
   <folder name="css">
     <file name="site_global.css" crc="4015752830"/>
-    <file name="master_a-master.css" crc="247373941" ref="tany:index"/>
+    <file name="master_a-master.css" crc="247373941" ref="tany:index:igivemore:musketeers"/>
     <file name="tany.css" crc="497666120" ref="tany"/>
     <file name="index.css" crc="4110098640" ref="index"/>
+    <file name="igivemore.css" crc="69882407" ref="igivemore"/>
+    <file name="musketeers.css" crc="117313481" ref="musketeers"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tany"/>
-    <file name="museutils.js" crc="3790713428" ref="index:tany"/>
-    <file name="whatinput.js" crc="84559013" ref="index:tany"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tany:igivemore:musketeers"/>
+    <file name="museutils.js" crc="3790713428" ref="index:tany:igivemore:musketeers"/>
+    <file name="whatinput.js" crc="84559013" ref="index:tany:igivemore:musketeers"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:tany"/>
-    <file name="webpro.js" crc="329496574" ref="tany"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="tany"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="tany"/>
-    <file name="touchswipe.js" crc="497316881" ref="tany"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:tany:igivemore:musketeers"/>
+    <file name="webpro.js" crc="329496574" ref="tany:igivemore:musketeers"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="tany:igivemore:musketeers"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="tany:igivemore:musketeers"/>
+    <file name="touchswipe.js" crc="497316881" ref="tany:igivemore:musketeers"/>
   </folder>
   <folder name="images">
     <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr.png" crc="157198178" ref="index"/>
@@ -23,11 +25,11 @@
     <file name="static1squarespace.jpg" crc="4292346992" ref="index"/>
     <file name="u1802-6.png" crc="4269196159" ref="index"/>
     <file name="u1802-6_2x.png" crc="3875960747" ref="index"/>
-    <file name="u1572-10.png" crc="4169733813" ref="index:tany"/>
-    <file name="u1572-10_2x.png" crc="349050130" ref="index:tany"/>
-    <file name="u105-10.png" crc="3975439034" ref="index:tany"/>
-    <file name="u105-10_2x.png" crc="523476462" ref="index:tany"/>
-    <file name="breezi_placeit-21.jpg" crc="3921139890" ref="index"/>
+    <file name="u1572-10.png" crc="4169733813" ref="index:tany:igivemore:musketeers"/>
+    <file name="u1572-10_2x.png" crc="349050130" ref="index:tany:igivemore:musketeers"/>
+    <file name="u105-10.png" crc="3975439034" ref="index:tany:igivemore:musketeers"/>
+    <file name="u105-10_2x.png" crc="523476462" ref="index:tany:igivemore:musketeers"/>
+    <file name="breezi_placeit-21.jpg" crc="3921139890" ref="index:igivemore"/>
     <file name="musketeers_4.jpg" crc="3837680854" ref="index"/>
     <file name="12565481_10153252418866781_8940086477228205294_n-ieu819-fr.png" crc="512209311" ref="index"/>
     <file name="12565481_10153252418866781_8940086477228205294_n.jpg" crc="4032316062" ref="index"/>
@@ -69,7 +71,7 @@
     <file name="logo_color_2x.png" crc="431153753" seo="true" ref="tany"/>
     <file name="winning.jpg" crc="4258849014" seo="true" ref="tany"/>
     <file name="winning_2x.jpg" crc="4013580756" seo="true" ref="tany"/>
-    <file name="blank.gif" crc="4208392903" ref="tany"/>
+    <file name="blank.gif" crc="4208392903" ref="tany:igivemore:musketeers"/>
     <file name="sketch.jpg" crc="162288653" seo="true" ref="tany"/>
     <file name="sketch_2x.jpg" crc="4136258219" seo="true" ref="tany"/>
     <file name="drafts.jpg" crc="4193158161" seo="true" ref="tany"/>
@@ -80,8 +82,85 @@
     <file name="sketch64x45_2x.jpg" crc="333845117" seo="true" ref="tany"/>
     <file name="drafts60x46.jpg" crc="467150594" seo="true" ref="tany"/>
     <file name="drafts60x46_2x.jpg" crc="4060617230" seo="true" ref="tany"/>
-    <file name="loading.gif" crc="3815509949" ref="tany"/>
+    <file name="loading.gif" crc="3815509949" ref="tany:igivemore:musketeers"/>
+    <file name="igm.png" crc="216191415" seo="true" ref="igivemore"/>
+    <file name="igm_2x.png" crc="4278394829" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit-21_2x.jpg" crc="118391603" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit.jpg" crc="3966771212" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit_2x.jpg" crc="3858696840" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 113137.jpg" crc="4240337106" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 113137_2x.jpg" crc="4171973822" seo="true" ref="igivemore"/>
+    <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 141502.jpg" crc="430606589" seo="true" ref="igivemore"/>
+    <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 141502_2x.jpg" crc="4113441903" seo="true" ref="igivemore"/>
+    <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 142305.jpg" crc="4150000684" seo="true" ref="igivemore"/>
+    <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 142305_2x.jpg" crc="273875861" seo="true" ref="igivemore"/>
+    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 113051.jpg" crc="106744465" seo="true" ref="igivemore"/>
+    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 113051_2x.jpg" crc="116997892" seo="true" ref="igivemore"/>
+    <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 142452.jpg" crc="3815077406" seo="true" ref="igivemore"/>
+    <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 142452_2x.jpg" crc="3872877298" seo="true" ref="igivemore"/>
+    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 142951.jpg" crc="139950123" seo="true" ref="igivemore"/>
+    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 142951_2x.jpg" crc="4100858391" seo="true" ref="igivemore"/>
+    <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 142506.jpg" crc="3944386310" seo="true" ref="igivemore"/>
+    <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 142506_2x.jpg" crc="4262595665" seo="true" ref="igivemore"/>
+    <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 142455.jpg" crc="84406528" seo="true" ref="igivemore"/>
+    <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 142455_2x.jpg" crc="458243974" seo="true" ref="igivemore"/>
+    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 142446.jpg" crc="4076195482" seo="true" ref="igivemore"/>
+    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 142446_2x.jpg" crc="4104236920" seo="true" ref="igivemore"/>
+    <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 142516.jpg" crc="438624042" seo="true" ref="igivemore"/>
+    <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 142516_2x.jpg" crc="3943853669" seo="true" ref="igivemore"/>
+    <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 141331.jpg" crc="3991868011" seo="true" ref="igivemore"/>
+    <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 141331_2x.jpg" crc="3855016577" seo="true" ref="igivemore"/>
+    <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 121655.jpg" crc="4186999370" seo="true" ref="igivemore"/>
+    <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 121655_2x.jpg" crc="464026337" seo="true" ref="igivemore"/>
+    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 113137.jpg" crc="152716167" seo="true" ref="igivemore"/>
+    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 113137_2x.jpg" crc="3810591776" seo="true" ref="igivemore"/>
+    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 162018.jpg" crc="272136411" seo="true" ref="igivemore"/>
+    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 162018_2x.jpg" crc="418352353" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit-2168x45.jpg" crc="3785861054" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit-2168x45_2x.jpg" crc="465153969" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit68x45.jpg" crc="3927869143" seo="true" ref="igivemore"/>
+    <file name="breezi_placeit68x45_2x.jpg" crc="270034381" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 11313764x45.jpg" crc="28520862" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 11313764x45_2x.jpg" crc="140368160" seo="true" ref="igivemore"/>
+    <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 14150261x45.jpg" crc="4156363506" seo="true" ref="igivemore"/>
+    <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 14150261x45_2x.jpg" crc="50930735" seo="true" ref="igivemore"/>
+    <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 14230560x46.jpg" crc="223477637" seo="true" ref="igivemore"/>
+    <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 14230560x46_2x.jpg" crc="352142320" seo="true" ref="igivemore"/>
+    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 11305164x45.jpg" crc="3777855277" seo="true" ref="igivemore"/>
+    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 11305164x45_2x.jpg" crc="351124952" seo="true" ref="igivemore"/>
+    <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 14245262x45.jpg" crc="59692535" seo="true" ref="igivemore"/>
+    <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 14245262x45_2x.jpg" crc="115048451" seo="true" ref="igivemore"/>
+    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 14295162x45.jpg" crc="3848427578" seo="true" ref="igivemore"/>
+    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 14295162x45_2x.jpg" crc="4177852989" seo="true" ref="igivemore"/>
+    <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 14250661x45.jpg" crc="399828495" seo="true" ref="igivemore"/>
+    <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 14250661x45_2x.jpg" crc="101509281" seo="true" ref="igivemore"/>
+    <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 14245562x45.jpg" crc="218710816" seo="true" ref="igivemore"/>
+    <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 14245562x45_2x.jpg" crc="176583494" seo="true" ref="igivemore"/>
+    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 14244660x45.jpg" crc="4200464811" seo="true" ref="igivemore"/>
+    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 14244660x45_2x.jpg" crc="3929596618" seo="true" ref="igivemore"/>
+    <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 14251661x45.jpg" crc="4096467907" seo="true" ref="igivemore"/>
+    <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 14251661x45_2x.jpg" crc="126646036" seo="true" ref="igivemore"/>
+    <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 14133168x45.jpg" crc="4044538333" seo="true" ref="igivemore"/>
+    <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 14133168x45_2x.jpg" crc="3789247875" seo="true" ref="igivemore"/>
+    <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 12165568x45.jpg" crc="383040061" seo="true" ref="igivemore"/>
+    <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 12165568x45_2x.jpg" crc="3955342262" seo="true" ref="igivemore"/>
+    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 11313764x45.jpg" crc="4257135479" seo="true" ref="igivemore"/>
+    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 11313764x45_2x.jpg" crc="4270608718" seo="true" ref="igivemore"/>
+    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 16201860x56.jpg" crc="4030438732" seo="true" ref="igivemore"/>
+    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 16201860x56_2x.jpg" crc="276754030" seo="true" ref="igivemore"/>
+    <file name="musket.png" crc="486359700" seo="true" ref="musketeers"/>
+    <file name="musket_2x.png" crc="496424481" seo="true" ref="musketeers"/>
+    <file name="2_logo.jpg" crc="4111072582" seo="true" ref="musketeers"/>
+    <file name="2_logo_2x.jpg" crc="496057287" seo="true" ref="musketeers"/>
+    <file name="musketeers_4_2x.jpg" crc="495380279" seo="true" ref="musketeers"/>
+    <file name="2_logo64x45.jpg" crc="503043402" seo="true" ref="musketeers"/>
+    <file name="2_logo64x45_2x.jpg" crc="3763537429" seo="true" ref="musketeers"/>
+    <file name="musketeers_468x45.jpg" crc="311830364" seo="true" ref="musketeers"/>
+    <file name="musketeers_468x45_2x.jpg" crc="4000163459" seo="true" ref="musketeers"/>
+    <file name="musketeers_42.jpg" crc="3928355297" seo="true" ref="musketeers"/>
   </folder>
-  <file name="index.html" crc="331293527" seo="true" mt="1461748248619" redirect="true"/>
+  <file name="index.html" crc="476004386" seo="true" mt="1461781612796" redirect="true"/>
   <file name="tany.html" crc="4061208578" seo="true" mt="1461748026854" redirect="true"/>
+  <file name="igivemore.html" crc="85551321" seo="true" mt="1461781235589" redirect="true"/>
+  <file name="musketeers.html" crc="4072431634" seo="true" mt="1461781612798" redirect="true"/>
 </manifest>
