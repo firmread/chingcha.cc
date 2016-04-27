@@ -1,0 +1,78 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461736115494">
+  <folder name="css">
+    <file name="site_global.css" crc="4083037670"/>
+    <file name="master_a-master.css" crc="139847893" ref="index"/>
+    <file name="index.css" crc="4292868095" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u1751.php" crc="3771881529" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="photo-1418074899503-4ac1b290b2e8.jpg" crc="150270102" ref="index"/>
+    <file name="photo-1418074899503-4ac1b290b2e8_2x.jpg" crc="305843322" ref="index"/>
+    <file name="u249-4.png" crc="4040993333" ref="index"/>
+    <file name="u249-4_2x.png" crc="4055554652" ref="index"/>
+    <file name="u1572-10.png" crc="285478123" ref="index"/>
+    <file name="u1572-10_2x.png" crc="158411091" ref="index"/>
+    <file name="u105-10.png" crc="4043160459" ref="index"/>
+    <file name="u105-10_2x.png" crc="3974878560" ref="index"/>
+    <file name="static1squarespace.jpg" crc="4292346992" ref="index"/>
+    <file name="breezi_placeit-21.jpg" crc="3921139890" ref="index"/>
+    <file name="musketeers_4.jpg" crc="3837680854" ref="index"/>
+    <file name="12565481_10153252418866781_8940086477228205294_n-ieu819-fr.png" crc="512209311" ref="index"/>
+    <file name="12565481_10153252418866781_8940086477228205294_n.jpg" crc="4032316062" ref="index"/>
+    <file name="12565481_10153252418866781_8940086477228205294_n-ieu819-fr2.png" crc="370307359" ref="index"/>
+    <file name="12565481_10153252418866781_8940086477228205294_n_2x.jpg" crc="312208596" ref="index"/>
+    <file name="12068435_10154522981973868_3597765353168107639_o.jpg" crc="99390889" ref="index"/>
+    <file name="12068435_10154522981973868_3597765353168107639_o_2x.jpg" crc="344580333" ref="index"/>
+    <file name="me_bw.png" crc="165214287" ref="index"/>
+    <file name="me_bw_2x.png" crc="333703690" ref="index"/>
+    <file name="nhk.png" crc="3860089195" seo="true" ref="index"/>
+    <file name="nhk_2x.png" crc="4233766545" seo="true" ref="index"/>
+    <file name="idn.png" crc="4217606220" seo="true" ref="index"/>
+    <file name="idn_2x.png" crc="320784267" seo="true" ref="index"/>
+    <file name="motiono.png" crc="3985880560" seo="true" ref="index"/>
+    <file name="motiono_2x.png" crc="427295156" seo="true" ref="index"/>
+    <file name="comarts.png" crc="16455349" seo="true" ref="index"/>
+    <file name="comarts_2x.png" crc="261393165" seo="true" ref="index"/>
+    <file name="aday.png" crc="39163575" seo="true" ref="index"/>
+    <file name="aday_2x.png" crc="181550925" seo="true" ref="index"/>
+    <file name="voiceofny.png" crc="368670927" seo="true" ref="index"/>
+    <file name="voiceofny_2x.png" crc="3899476436" seo="true" ref="index"/>
+    <file name="jamfac.png" crc="4291701571" seo="true" ref="index"/>
+    <file name="jamfac_2x.png" crc="291368518" seo="true" ref="index"/>
+    <file name="sxsw.png" crc="4246521433" seo="true" ref="index"/>
+    <file name="sxsw_2x.png" crc="94696841" seo="true" ref="index"/>
+    <file name="makerfaire.png" crc="4101721601" seo="true" ref="index"/>
+    <file name="makerfaire_2x.png" crc="4110764582" seo="true" ref="index"/>
+    <file name="bacc.png" crc="3859589756" seo="true" ref="index"/>
+    <file name="bacc_2x.png" crc="3969594012" seo="true" ref="index"/>
+    <file name="ied.png" crc="4010866869" seo="true" ref="index"/>
+    <file name="ied_2x.png" crc="3794273249" seo="true" ref="index"/>
+    <file name="sfpc-u1431.png" crc="3839667760" ref="index"/>
+    <file name="sfpc-u1431_2x.png" crc="145771793" ref="index"/>
+    <file name="parsons.png" crc="180340280" seo="true" ref="index"/>
+    <file name="parsons_2x.png" crc="3802733911" seo="true" ref="index"/>
+    <file name="30weeks.png" crc="190954752" seo="true" ref="index"/>
+    <file name="30weeks_2x.png" crc="3942019037" seo="true" ref="index"/>
+    <file name="u1765-17.png" crc="4105181256" ref="index"/>
+    <file name="u1765-17-r.png" crc="3865508877" ref="index"/>
+    <file name="u1765-17-m.png" crc="4198068625" ref="index"/>
+    <file name="u1765-17-fs.png" crc="434568277" ref="index"/>
+    <file name="u1765-17_2x.png" crc="3935461489" ref="index"/>
+    <file name="u1765-17-r_2x.png" crc="3790351682" ref="index"/>
+    <file name="u1765-17-m_2x.png" crc="324153310" ref="index"/>
+    <file name="u1765-17-fs_2x.png" crc="25604879" ref="index"/>
+  </folder>
+  <file name="index.html" crc="506051754" seo="true" mt="1461735373511" redirect="true"/>
+</manifest>
