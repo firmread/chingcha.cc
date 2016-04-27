@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461748436536">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461748974419">
   <folder name="css">
     <file name="site_global.css" crc="4015752830"/>
     <file name="master_a-master.css" crc="276984904" ref="index:tany"/>
