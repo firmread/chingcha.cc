@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #AE12EF;
+	color: #0000EF;
+	background-color: #9DFBF4;
 }
 
 #page
@@ -45,7 +45,7 @@
 	z-index: 5;
 	min-height: 230px;
 	padding-bottom: 20px;
-	background: #7F7F7F url("../images/_mg_0238.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/mg_0238.jpg") no-repeat center center;
 	background-size: cover;
 }
 
