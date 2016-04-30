@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #2DD78D;
+	color: #000003;
+	background-color: #AE12EF;
 }
 
 #page
@@ -45,7 +45,7 @@
 	z-index: 5;
 	min-height: 230px;
 	padding-bottom: 20px;
-	background: #7F7F7F url("../images/static1squarespace.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/_mg_0238.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -126,10 +126,10 @@
 	width: 507px;
 	min-height: 152px;
 	background-color: transparent;
+	line-height: 36px;
 	text-transform: none;
 	color: #FFFFFF;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: brandon-grotesque, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -468,8 +468,8 @@
 	width: 87px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	text-transform: uppercase;
 	color: #29ABE2;
 	font-size: 24px;
@@ -636,8 +636,8 @@
 	width: 111px;
 	min-height: 30px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	text-transform: uppercase;
 	color: #29ABE2;
 	font-size: 24px;

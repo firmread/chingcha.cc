@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1461968987684">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1462047758432">
   <folder name="css">
     <file name="site_global.css" crc="4015752830"/>
-    <file name="master_a-master.css" crc="3843813865" ref="computerarts:igivemore:index:musketeers:tany:thejamfactory"/>
-    <file name="computerarts.css" crc="374299647" ref="computerarts"/>
-    <file name="igivemore.css" crc="270515805" ref="igivemore"/>
-    <file name="index.css" crc="19781517" ref="index"/>
-    <file name="musketeers.css" crc="3856804794" ref="musketeers"/>
-    <file name="tany.css" crc="3900438896" ref="tany"/>
+    <file name="master_a-master.css" crc="276984904" ref="thejamfactory:computerarts:musketeers:igivemore:tany:index"/>
     <file name="thejamfactory.css" crc="149006873" ref="thejamfactory"/>
+    <file name="computerarts.css" crc="374299647" ref="computerarts"/>
+    <file name="musketeers.css" crc="4170173738" ref="musketeers"/>
+    <file name="igivemore.css" crc="33102298" ref="igivemore"/>
+    <file name="tany.css" crc="3853118570" ref="tany"/>
+    <file name="index.css" crc="61739759" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tany:igivemore:musketeers:computerarts:thejamfactory"/>
@@ -25,7 +25,7 @@
     <file name="favicon.ico" crc="501345568" ref="index"/>
     <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr.png" crc="157198178" ref="index"/>
     <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr_2x.png" crc="309039488" ref="index"/>
-    <file name="static1squarespace.jpg" crc="4292346992" ref="index"/>
+    <file name="_mg_0238.jpg" crc="29508625" ref="index"/>
     <file name="logo_color99x45.png" crc="4021730469" seo="true" ref="index"/>
     <file name="logo_color99x45_2x.png" crc="431153753" seo="true" ref="index"/>
     <file name="u1802-6.png" crc="4269196159" ref="index"/>
@@ -96,7 +96,7 @@
     <file name="springboard_cover_photo_2x.jpg" crc="98761251" seo="true" ref="tany"/>
     <file name="springboard_poster_final_2.jpg" crc="3770066126" seo="true" ref="tany"/>
     <file name="springboard_poster_final_2_2x.jpg" crc="3825388680" seo="true" ref="tany"/>
-    <file name="static1squarespace2.jpg" crc="450564551" seo="true" ref="tany"/>
+    <file name="static1squarespace.jpg" crc="450564551" seo="true" ref="tany"/>
     <file name="static1squarespace_2x.jpg" crc="4040333713" seo="true" ref="tany"/>
     <file name="sticker_idea.jpg" crc="278686767" seo="true" ref="tany"/>
     <file name="sticker_idea_2x.jpg" crc="3794706804" seo="true" ref="tany"/>
@@ -132,72 +132,328 @@
     <file name="promo_12_nutthawutsiri-crop-u4435_2x.jpg" crc="4132297626" ref="tany"/>
     <file name="screenshot 2016-04-27 130343-crop-u4463.jpg" crc="3973777984" ref="tany"/>
     <file name="screenshot 2016-04-27 130343-crop-u4463_2x.jpg" crc="4144408095" ref="tany"/>
+    <file name="_mg_0197.jpg" crc="4163236153" seo="true" ref="tany"/>
+    <file name="_mg_0197_2x.jpg" crc="243811814" seo="true" ref="tany"/>
+    <file name="_mg_0210.jpg" crc="6223787" seo="true" ref="tany"/>
+    <file name="_mg_0210_2x.jpg" crc="3976850408" seo="true" ref="tany"/>
+    <file name="_mg_0224.jpg" crc="3871034042" seo="true" ref="tany"/>
+    <file name="_mg_0224_2x.jpg" crc="92594444" seo="true" ref="tany"/>
+    <file name="_mg_02382.jpg" crc="3828089910" seo="true" ref="tany"/>
+    <file name="_mg_0238_2x.jpg" crc="13795717" seo="true" ref="tany"/>
+    <file name="_mg_0244.jpg" crc="155602565" seo="true" ref="tany"/>
+    <file name="_mg_0244_2x.jpg" crc="4224606679" seo="true" ref="tany"/>
+    <file name="_mg_0262.jpg" crc="3783230387" seo="true" ref="tany"/>
+    <file name="_mg_0262_2x.jpg" crc="141772535" seo="true" ref="tany"/>
+    <file name="_mg_0274.jpg" crc="107824423" seo="true" ref="tany"/>
+    <file name="_mg_0274_2x.jpg" crc="3763878884" seo="true" ref="tany"/>
+    <file name="_mg_0282.jpg" crc="4286933805" seo="true" ref="tany"/>
+    <file name="_mg_0282_2x.jpg" crc="3840334373" seo="true" ref="tany"/>
+    <file name="_mg_0401.jpg" crc="3955673077" seo="true" ref="tany"/>
+    <file name="_mg_0401_2x.jpg" crc="209039273" seo="true" ref="tany"/>
+    <file name="_mg_0408.jpg" crc="4216204670" seo="true" ref="tany"/>
+    <file name="_mg_0408_2x.jpg" crc="50734731" seo="true" ref="tany"/>
+    <file name="_mg_0606.jpg" crc="4095086367" seo="true" ref="tany"/>
+    <file name="_mg_0606_2x.jpg" crc="3914330003" seo="true" ref="tany"/>
+    <file name="_mg_0625.jpg" crc="432321650" seo="true" ref="tany"/>
+    <file name="_mg_0625_2x.jpg" crc="422434138" seo="true" ref="tany"/>
+    <file name="_mg_0664.jpg" crc="400192532" seo="true" ref="tany"/>
+    <file name="_mg_0664_2x.jpg" crc="3983651804" seo="true" ref="tany"/>
+    <file name="_mg_0694.jpg" crc="4273777681" seo="true" ref="tany"/>
+    <file name="_mg_0694_2x.jpg" crc="4049012616" seo="true" ref="tany"/>
+    <file name="_mg_0757.jpg" crc="4068392999" seo="true" ref="tany"/>
+    <file name="_mg_0757_2x.jpg" crc="216420043" seo="true" ref="tany"/>
+    <file name="_mg_0776.jpg" crc="4001748196" seo="true" ref="tany"/>
+    <file name="_mg_0776_2x.jpg" crc="3904239752" seo="true" ref="tany"/>
+    <file name="_mg_0783.jpg" crc="4259725018" seo="true" ref="tany"/>
+    <file name="_mg_0783_2x.jpg" crc="433736206" seo="true" ref="tany"/>
+    <file name="_mg_0808.jpg" crc="60190748" seo="true" ref="tany"/>
+    <file name="_mg_0808_2x.jpg" crc="4125429324" seo="true" ref="tany"/>
+    <file name="_mg_1015.jpg" crc="12257571" seo="true" ref="tany"/>
+    <file name="_mg_1015_2x.jpg" crc="3838731989" seo="true" ref="tany"/>
+    <file name="_mg_1038.jpg" crc="408283780" seo="true" ref="tany"/>
+    <file name="_mg_1038_2x.jpg" crc="4140462487" seo="true" ref="tany"/>
+    <file name="_mg_1055.jpg" crc="4005716907" seo="true" ref="tany"/>
+    <file name="_mg_1055_2x.jpg" crc="3847558933" seo="true" ref="tany"/>
+    <file name="_mg_1060.jpg" crc="97734009" seo="true" ref="tany"/>
+    <file name="_mg_1060_2x.jpg" crc="3998298100" seo="true" ref="tany"/>
+    <file name="_mg_1067.jpg" crc="4085854548" seo="true" ref="tany"/>
+    <file name="_mg_1067_2x.jpg" crc="3899338865" seo="true" ref="tany"/>
+    <file name="_mg_1075.jpg" crc="4013944777" seo="true" ref="tany"/>
+    <file name="_mg_1075_2x.jpg" crc="421716300" seo="true" ref="tany"/>
+    <file name="_mg_1085.jpg" crc="192195090" seo="true" ref="tany"/>
+    <file name="_mg_1085_2x.jpg" crc="345881559" seo="true" ref="tany"/>
+    <file name="_mg_1104.jpg" crc="249237859" seo="true" ref="tany"/>
+    <file name="_mg_1104_2x.jpg" crc="494446017" seo="true" ref="tany"/>
+    <file name="_mg_1131.jpg" crc="18273056" seo="true" ref="tany"/>
+    <file name="_mg_1131_2x.jpg" crc="4116236015" seo="true" ref="tany"/>
+    <file name="_mg_1141.jpg" crc="3792134070" seo="true" ref="tany"/>
+    <file name="_mg_1141_2x.jpg" crc="4211519602" seo="true" ref="tany"/>
+    <file name="_mg_1153.jpg" crc="368966138" seo="true" ref="tany"/>
+    <file name="_mg_1153_2x.jpg" crc="3787816874" seo="true" ref="tany"/>
+    <file name="_mg_1155.jpg" crc="416970500" seo="true" ref="tany"/>
+    <file name="_mg_1155_2x.jpg" crc="37789331" seo="true" ref="tany"/>
+    <file name="_mg_1163.jpg" crc="3923574745" seo="true" ref="tany"/>
+    <file name="_mg_1163_2x.jpg" crc="3771495972" seo="true" ref="tany"/>
+    <file name="_mg_1176.jpg" crc="3867052791" seo="true" ref="tany"/>
+    <file name="_mg_1176_2x.jpg" crc="4222281688" seo="true" ref="tany"/>
+    <file name="_mg_1197.jpg" crc="4240529171" seo="true" ref="tany"/>
+    <file name="_mg_1197_2x.jpg" crc="3862094984" seo="true" ref="tany"/>
+    <file name="_mg_1241.jpg" crc="397746937" seo="true" ref="tany"/>
+    <file name="_mg_1241_2x.jpg" crc="186542667" seo="true" ref="tany"/>
+    <file name="_mg_1257.jpg" crc="487804127" seo="true" ref="tany"/>
+    <file name="_mg_1257_2x.jpg" crc="3851244259" seo="true" ref="tany"/>
+    <file name="_mg_1274.jpg" crc="294725482" seo="true" ref="tany"/>
+    <file name="_mg_1274_2x.jpg" crc="264346461" seo="true" ref="tany"/>
+    <file name="_mg_1286.jpg" crc="140114710" seo="true" ref="tany"/>
+    <file name="_mg_1286_2x.jpg" crc="295343102" seo="true" ref="tany"/>
+    <file name="_mg_1294.jpg" crc="4283022426" seo="true" ref="tany"/>
+    <file name="_mg_1294_2x.jpg" crc="305533271" seo="true" ref="tany"/>
+    <file name="_mg_1313.jpg" crc="270677331" seo="true" ref="tany"/>
+    <file name="_mg_1313_2x.jpg" crc="28549171" seo="true" ref="tany"/>
+    <file name="_mg_9487.jpg" crc="211833026" seo="true" ref="tany"/>
+    <file name="_mg_9487_2x.jpg" crc="4201818883" seo="true" ref="tany"/>
+    <file name="_mg_9522.jpg" crc="4130764288" seo="true" ref="tany"/>
+    <file name="_mg_9522_2x.jpg" crc="432420420" seo="true" ref="tany"/>
+    <file name="_mg_9530.jpg" crc="3825152968" seo="true" ref="tany"/>
+    <file name="_mg_9530_2x.jpg" crc="4001509298" seo="true" ref="tany"/>
+    <file name="_mg_9548.jpg" crc="349698973" seo="true" ref="tany"/>
+    <file name="_mg_9548_2x.jpg" crc="4183448718" seo="true" ref="tany"/>
+    <file name="_mg_9577.jpg" crc="4293983214" seo="true" ref="tany"/>
+    <file name="_mg_9577_2x.jpg" crc="3925387908" seo="true" ref="tany"/>
+    <file name="_mg_9588.jpg" crc="58989653" seo="true" ref="tany"/>
+    <file name="_mg_9588_2x.jpg" crc="442300189" seo="true" ref="tany"/>
+    <file name="_mg_9601.jpg" crc="3956591508" seo="true" ref="tany"/>
+    <file name="_mg_9601_2x.jpg" crc="4164682532" seo="true" ref="tany"/>
+    <file name="_mg_9666.jpg" crc="3905947682" seo="true" ref="tany"/>
+    <file name="_mg_9666_2x.jpg" crc="180137933" seo="true" ref="tany"/>
+    <file name="_mg_9677.jpg" crc="3767104838" seo="true" ref="tany"/>
+    <file name="_mg_9677_2x.jpg" crc="3903830205" seo="true" ref="tany"/>
+    <file name="_mg_9727.jpg" crc="4245923228" seo="true" ref="tany"/>
+    <file name="_mg_9727_2x.jpg" crc="511457401" seo="true" ref="tany"/>
+    <file name="_mg_9735.jpg" crc="109858219" seo="true" ref="tany"/>
+    <file name="_mg_9735_2x.jpg" crc="79985749" seo="true" ref="tany"/>
+    <file name="_mg_9743.jpg" crc="325965811" seo="true" ref="tany"/>
+    <file name="_mg_9743_2x.jpg" crc="4111134091" seo="true" ref="tany"/>
+    <file name="_mg_9762.jpg" crc="197547303" seo="true" ref="tany"/>
+    <file name="_mg_9762_2x.jpg" crc="3887128391" seo="true" ref="tany"/>
+    <file name="_mg_9776.jpg" crc="4077752268" seo="true" ref="tany"/>
+    <file name="_mg_9776_2x.jpg" crc="4282752583" seo="true" ref="tany"/>
+    <file name="_mg_9778.jpg" crc="4268975531" seo="true" ref="tany"/>
+    <file name="_mg_9778_2x.jpg" crc="3780383412" seo="true" ref="tany"/>
+    <file name="_mg_9779.jpg" crc="4244521307" seo="true" ref="tany"/>
+    <file name="_mg_9779_2x.jpg" crc="3877174052" seo="true" ref="tany"/>
+    <file name="_mg_9799.jpg" crc="109736619" seo="true" ref="tany"/>
+    <file name="_mg_9799_2x.jpg" crc="3772328047" seo="true" ref="tany"/>
+    <file name="_mg_9802.jpg" crc="3803609615" seo="true" ref="tany"/>
+    <file name="_mg_9802_2x.jpg" crc="2053566" seo="true" ref="tany"/>
+    <file name="_mg_9803.jpg" crc="509911578" seo="true" ref="tany"/>
+    <file name="_mg_9803_2x.jpg" crc="4083285743" seo="true" ref="tany"/>
+    <file name="_mg_9813.jpg" crc="534344198" seo="true" ref="tany"/>
+    <file name="_mg_9813_2x.jpg" crc="4201214384" seo="true" ref="tany"/>
+    <file name="_mg_9837.jpg" crc="3819895661" seo="true" ref="tany"/>
+    <file name="_mg_9837_2x.jpg" crc="102212974" seo="true" ref="tany"/>
+    <file name="_mg_9850.jpg" crc="4099837163" seo="true" ref="tany"/>
+    <file name="_mg_9850_2x.jpg" crc="361491866" seo="true" ref="tany"/>
+    <file name="_mg_9863.jpg" crc="3818523762" seo="true" ref="tany"/>
+    <file name="_mg_9863_2x.jpg" crc="253490465" seo="true" ref="tany"/>
+    <file name="_mg_9885.jpg" crc="199975635" seo="true" ref="tany"/>
+    <file name="_mg_9885_2x.jpg" crc="261529262" seo="true" ref="tany"/>
+    <file name="_mg_9900.jpg" crc="271862077" seo="true" ref="tany"/>
+    <file name="_mg_9900_2x.jpg" crc="59261437" seo="true" ref="tany"/>
+    <file name="_mg_9920.jpg" crc="78513493" seo="true" ref="tany"/>
+    <file name="_mg_9920_2x.jpg" crc="4049185378" seo="true" ref="tany"/>
+    <file name="_mg_9949.jpg" crc="491810304" seo="true" ref="tany"/>
+    <file name="_mg_9949_2x.jpg" crc="2937062" seo="true" ref="tany"/>
+    <file name="_mg_9968.jpg" crc="4163637761" seo="true" ref="tany"/>
+    <file name="_mg_9968_2x.jpg" crc="4103267717" seo="true" ref="tany"/>
+    <file name="_mg_9976.jpg" crc="4032070368" seo="true" ref="tany"/>
+    <file name="_mg_9976_2x.jpg" crc="3908511701" seo="true" ref="tany"/>
+    <file name="_mg_9983.jpg" crc="157516188" seo="true" ref="tany"/>
+    <file name="_mg_9983_2x.jpg" crc="158017437" seo="true" ref="tany"/>
+    <file name="_mg_019768x45.jpg" crc="335034222" seo="true" ref="tany"/>
+    <file name="_mg_019768x45_2x.jpg" crc="379454214" seo="true" ref="tany"/>
+    <file name="_mg_021068x45.jpg" crc="4122070516" seo="true" ref="tany"/>
+    <file name="_mg_021068x45_2x.jpg" crc="4117440361" seo="true" ref="tany"/>
+    <file name="_mg_022468x45.jpg" crc="222922015" seo="true" ref="tany"/>
+    <file name="_mg_022468x45_2x.jpg" crc="482128657" seo="true" ref="tany"/>
+    <file name="_mg_023868x45.jpg" crc="127687273" seo="true" ref="tany"/>
+    <file name="_mg_023868x45_2x.jpg" crc="3838365595" seo="true" ref="tany"/>
+    <file name="_mg_024468x45.jpg" crc="484265109" seo="true" ref="tany"/>
+    <file name="_mg_024468x45_2x.jpg" crc="3928105337" seo="true" ref="tany"/>
+    <file name="_mg_0262-crop-u7970.jpg" crc="4112525729" ref="tany"/>
+    <file name="_mg_0262-crop-u7970_2x.jpg" crc="280819107" ref="tany"/>
+    <file name="_mg_027468x45.jpg" crc="4278482413" seo="true" ref="tany"/>
+    <file name="_mg_027468x45_2x.jpg" crc="4186279312" seo="true" ref="tany"/>
+    <file name="_mg_028268x45.jpg" crc="351509827" seo="true" ref="tany"/>
+    <file name="_mg_028268x45_2x.jpg" crc="71847391" seo="true" ref="tany"/>
+    <file name="_mg_040168x45.jpg" crc="400619849" seo="true" ref="tany"/>
+    <file name="_mg_040168x45_2x.jpg" crc="4003718156" seo="true" ref="tany"/>
+    <file name="_mg_040868x45.jpg" crc="297968332" seo="true" ref="tany"/>
+    <file name="_mg_040868x45_2x.jpg" crc="3915851643" seo="true" ref="tany"/>
+    <file name="_mg_060668x45.jpg" crc="9725316" seo="true" ref="tany"/>
+    <file name="_mg_060668x45_2x.jpg" crc="3920638632" seo="true" ref="tany"/>
+    <file name="_mg_062568x45.jpg" crc="500355958" seo="true" ref="tany"/>
+    <file name="_mg_062568x45_2x.jpg" crc="3979567432" seo="true" ref="tany"/>
+    <file name="_mg_0664-crop-u8110.jpg" crc="4194315486" ref="tany"/>
+    <file name="_mg_0664-crop-u8110_2x.jpg" crc="4114833012" ref="tany"/>
+    <file name="_mg_069468x45.jpg" crc="251510518" seo="true" ref="tany"/>
+    <file name="_mg_069468x45_2x.jpg" crc="452383047" seo="true" ref="tany"/>
+    <file name="_mg_0757-crop-u8150.jpg" crc="4226453962" ref="tany"/>
+    <file name="_mg_0757-crop-u8150_2x.jpg" crc="4129293358" ref="tany"/>
+    <file name="_mg_077668x45.jpg" crc="212903623" seo="true" ref="tany"/>
+    <file name="_mg_077668x45_2x.jpg" crc="367967535" seo="true" ref="tany"/>
+    <file name="_mg_078368x45.jpg" crc="4049203059" seo="true" ref="tany"/>
+    <file name="_mg_078368x45_2x.jpg" crc="3910019755" seo="true" ref="tany"/>
+    <file name="_mg_080868x45.jpg" crc="4021201925" seo="true" ref="tany"/>
+    <file name="_mg_080868x45_2x.jpg" crc="159562049" seo="true" ref="tany"/>
+    <file name="_mg_101568x45.jpg" crc="189682195" seo="true" ref="tany"/>
+    <file name="_mg_101568x45_2x.jpg" crc="487118285" seo="true" ref="tany"/>
+    <file name="_mg_103868x45.jpg" crc="267840843" seo="true" ref="tany"/>
+    <file name="_mg_103868x45_2x.jpg" crc="229229093" seo="true" ref="tany"/>
+    <file name="_mg_105568x45.jpg" crc="3939069797" seo="true" ref="tany"/>
+    <file name="_mg_105568x45_2x.jpg" crc="3788203810" seo="true" ref="tany"/>
+    <file name="_mg_106068x45.jpg" crc="47045343" seo="true" ref="tany"/>
+    <file name="_mg_106068x45_2x.jpg" crc="186659525" seo="true" ref="tany"/>
+    <file name="_mg_106768x45.jpg" crc="3925174888" seo="true" ref="tany"/>
+    <file name="_mg_106768x45_2x.jpg" crc="513352262" seo="true" ref="tany"/>
+    <file name="_mg_107568x45.jpg" crc="3849663407" seo="true" ref="tany"/>
+    <file name="_mg_107568x45_2x.jpg" crc="4055489025" seo="true" ref="tany"/>
+    <file name="_mg_108568x45.jpg" crc="164428371" seo="true" ref="tany"/>
+    <file name="_mg_108568x45_2x.jpg" crc="4208412936" seo="true" ref="tany"/>
+    <file name="_mg_1104-crop-u8370.jpg" crc="4196973360" ref="tany"/>
+    <file name="_mg_1104-crop-u8370_2x.jpg" crc="118434550" ref="tany"/>
+    <file name="_mg_113168x45.jpg" crc="4095709924" seo="true" ref="tany"/>
+    <file name="_mg_113168x45_2x.jpg" crc="3802880178" seo="true" ref="tany"/>
+    <file name="_mg_114168x45.jpg" crc="3959152472" seo="true" ref="tany"/>
+    <file name="_mg_114168x45_2x.jpg" crc="509266898" seo="true" ref="tany"/>
+    <file name="_mg_115368x45.jpg" crc="4099951186" seo="true" ref="tany"/>
+    <file name="_mg_115368x45_2x.jpg" crc="4197161473" seo="true" ref="tany"/>
+    <file name="_mg_115568x45.jpg" crc="267410709" seo="true" ref="tany"/>
+    <file name="_mg_115568x45_2x.jpg" crc="4151519855" seo="true" ref="tany"/>
+    <file name="_mg_116368x45.jpg" crc="4202553203" seo="true" ref="tany"/>
+    <file name="_mg_116368x45_2x.jpg" crc="107160814" seo="true" ref="tany"/>
+    <file name="_mg_117668x45.jpg" crc="103291900" seo="true" ref="tany"/>
+    <file name="_mg_117668x45_2x.jpg" crc="512740278" seo="true" ref="tany"/>
+    <file name="_mg_119768x45.jpg" crc="4192206253" seo="true" ref="tany"/>
+    <file name="_mg_119768x45_2x.jpg" crc="442945705" seo="true" ref="tany"/>
+    <file name="_mg_124168x45.jpg" crc="3788052075" seo="true" ref="tany"/>
+    <file name="_mg_124168x45_2x.jpg" crc="4197105710" seo="true" ref="tany"/>
+    <file name="_mg_125768x45.jpg" crc="3923399558" seo="true" ref="tany"/>
+    <file name="_mg_125768x45_2x.jpg" crc="269682401" seo="true" ref="tany"/>
+    <file name="_mg_1274-crop-u8570.jpg" crc="3783420782" ref="tany"/>
+    <file name="_mg_1274-crop-u8570_2x.jpg" crc="293194982" ref="tany"/>
+    <file name="_mg_128668x45.jpg" crc="480389319" seo="true" ref="tany"/>
+    <file name="_mg_128668x45_2x.jpg" crc="4107575156" seo="true" ref="tany"/>
+    <file name="_mg_129468x45.jpg" crc="4134910239" seo="true" ref="tany"/>
+    <file name="_mg_129468x45_2x.jpg" crc="3969174204" seo="true" ref="tany"/>
+    <file name="_mg_131368x45.jpg" crc="260767880" seo="true" ref="tany"/>
+    <file name="_mg_131368x45_2x.jpg" crc="4043005908" seo="true" ref="tany"/>
+    <file name="_mg_948768x45.jpg" crc="4186864961" seo="true" ref="tany"/>
+    <file name="_mg_948768x45_2x.jpg" crc="4160670017" seo="true" ref="tany"/>
+    <file name="_mg_952268x45.jpg" crc="360363624" seo="true" ref="tany"/>
+    <file name="_mg_952268x45_2x.jpg" crc="4096862276" seo="true" ref="tany"/>
+    <file name="_mg_9530-crop-u8690.jpg" crc="93055813" ref="tany"/>
+    <file name="_mg_9530-crop-u8690_2x.jpg" crc="4049286922" ref="tany"/>
+    <file name="_mg_954868x45.jpg" crc="145640432" seo="true" ref="tany"/>
+    <file name="_mg_954868x45_2x.jpg" crc="489742725" seo="true" ref="tany"/>
+    <file name="_mg_957768x45.jpg" crc="446456253" seo="true" ref="tany"/>
+    <file name="_mg_957768x45_2x.jpg" crc="3957718945" seo="true" ref="tany"/>
+    <file name="_mg_958868x45.jpg" crc="3792342576" seo="true" ref="tany"/>
+    <file name="_mg_958868x45_2x.jpg" crc="534757120" seo="true" ref="tany"/>
+    <file name="_mg_960168x45.jpg" crc="3959235164" seo="true" ref="tany"/>
+    <file name="_mg_960168x45_2x.jpg" crc="361249978" seo="true" ref="tany"/>
+    <file name="_mg_966668x45.jpg" crc="430850202" seo="true" ref="tany"/>
+    <file name="_mg_966668x45_2x.jpg" crc="534118128" seo="true" ref="tany"/>
+    <file name="_mg_967768x45.jpg" crc="3917489600" seo="true" ref="tany"/>
+    <file name="_mg_967768x45_2x.jpg" crc="404534805" seo="true" ref="tany"/>
+    <file name="_mg_972768x45.jpg" crc="4171500819" seo="true" ref="tany"/>
+    <file name="_mg_972768x45_2x.jpg" crc="4243524255" seo="true" ref="tany"/>
+    <file name="_mg_973568x45.jpg" crc="105051578" seo="true" ref="tany"/>
+    <file name="_mg_973568x45_2x.jpg" crc="4262421100" seo="true" ref="tany"/>
+    <file name="_mg_974368x45.jpg" crc="4155639574" seo="true" ref="tany"/>
+    <file name="_mg_974368x45_2x.jpg" crc="365692964" seo="true" ref="tany"/>
+    <file name="_mg_976268x45.jpg" crc="4038590060" seo="true" ref="tany"/>
+    <file name="_mg_976268x45_2x.jpg" crc="3898419378" seo="true" ref="tany"/>
+    <file name="_mg_977668x45.jpg" crc="3836592479" seo="true" ref="tany"/>
+    <file name="_mg_977668x45_2x.jpg" crc="4060181951" seo="true" ref="tany"/>
+    <file name="_mg_977868x45.jpg" crc="4143305885" seo="true" ref="tany"/>
+    <file name="_mg_977868x45_2x.jpg" crc="4060764772" seo="true" ref="tany"/>
+    <file name="_mg_977968x45.jpg" crc="280768810" seo="true" ref="tany"/>
+    <file name="_mg_977968x45_2x.jpg" crc="4059486495" seo="true" ref="tany"/>
+    <file name="_mg_979968x45.jpg" crc="409272092" seo="true" ref="tany"/>
+    <file name="_mg_979968x45_2x.jpg" crc="3852817603" seo="true" ref="tany"/>
+    <file name="_mg_980268x45.jpg" crc="3820815591" seo="true" ref="tany"/>
+    <file name="_mg_980268x45_2x.jpg" crc="205916746" seo="true" ref="tany"/>
+    <file name="_mg_980368x45.jpg" crc="298266780" seo="true" ref="tany"/>
+    <file name="_mg_980368x45_2x.jpg" crc="4013422301" seo="true" ref="tany"/>
+    <file name="_mg_981368x45.jpg" crc="139924793" seo="true" ref="tany"/>
+    <file name="_mg_981368x45_2x.jpg" crc="240750423" seo="true" ref="tany"/>
+    <file name="_mg_983768x45.jpg" crc="4106930897" seo="true" ref="tany"/>
+    <file name="_mg_983768x45_2x.jpg" crc="464869314" seo="true" ref="tany"/>
+    <file name="_mg_985068x45.jpg" crc="492963379" seo="true" ref="tany"/>
+    <file name="_mg_985068x45_2x.jpg" crc="4066354538" seo="true" ref="tany"/>
+    <file name="_mg_986368x45.jpg" crc="400753812" seo="true" ref="tany"/>
+    <file name="_mg_986368x45_2x.jpg" crc="372726291" seo="true" ref="tany"/>
+    <file name="_mg_988568x45.jpg" crc="397168638" seo="true" ref="tany"/>
+    <file name="_mg_988568x45_2x.jpg" crc="495372616" seo="true" ref="tany"/>
+    <file name="_mg_990068x45.jpg" crc="170835980" seo="true" ref="tany"/>
+    <file name="_mg_990068x45_2x.jpg" crc="207294359" seo="true" ref="tany"/>
+    <file name="_mg_992068x45.jpg" crc="3896082373" seo="true" ref="tany"/>
+    <file name="_mg_992068x45_2x.jpg" crc="510741299" seo="true" ref="tany"/>
+    <file name="_mg_994968x45.jpg" crc="3990276804" seo="true" ref="tany"/>
+    <file name="_mg_994968x45_2x.jpg" crc="48271184" seo="true" ref="tany"/>
+    <file name="_mg_996868x45.jpg" crc="121694908" seo="true" ref="tany"/>
+    <file name="_mg_996868x45_2x.jpg" crc="86831400" seo="true" ref="tany"/>
+    <file name="_mg_997668x45.jpg" crc="158714798" seo="true" ref="tany"/>
+    <file name="_mg_997668x45_2x.jpg" crc="4228887499" seo="true" ref="tany"/>
+    <file name="_mg_998368x45.jpg" crc="3793834562" seo="true" ref="tany"/>
+    <file name="_mg_998368x45_2x.jpg" crc="527437528" seo="true" ref="tany"/>
     <file name="igm.png" crc="216191415" seo="true" ref="igivemore"/>
     <file name="igm_2x.png" crc="4278394829" seo="true" ref="igivemore"/>
     <file name="breezi_placeit-212.jpg" crc="3765243678" seo="true" ref="igivemore"/>
     <file name="breezi_placeit-21_2x.jpg" crc="118391603" seo="true" ref="igivemore"/>
     <file name="breezi_placeit.jpg" crc="3966771212" seo="true" ref="igivemore"/>
     <file name="breezi_placeit_2x.jpg" crc="3858696840" seo="true" ref="igivemore"/>
-    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 113137.jpg" crc="4240337106" seo="true" ref="igivemore"/>
-    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 113137_2x.jpg" crc="4171973822" seo="true" ref="igivemore"/>
     <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 141502.jpg" crc="430606589" seo="true" ref="igivemore"/>
     <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 141502_2x.jpg" crc="4113441903" seo="true" ref="igivemore"/>
     <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 142305.jpg" crc="4150000684" seo="true" ref="igivemore"/>
     <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 142305_2x.jpg" crc="273875861" seo="true" ref="igivemore"/>
-    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 113051.jpg" crc="106744465" seo="true" ref="igivemore"/>
-    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 113051_2x.jpg" crc="116997892" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 113137.jpg" crc="4240337106" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 113137_2x.jpg" crc="4171973822" seo="true" ref="igivemore"/>
     <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 142452.jpg" crc="3815077406" seo="true" ref="igivemore"/>
     <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 142452_2x.jpg" crc="3872877298" seo="true" ref="igivemore"/>
-    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 142951.jpg" crc="139950123" seo="true" ref="igivemore"/>
-    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 142951_2x.jpg" crc="4100858391" seo="true" ref="igivemore"/>
     <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 142506.jpg" crc="3944386310" seo="true" ref="igivemore"/>
     <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 142506_2x.jpg" crc="4262595665" seo="true" ref="igivemore"/>
     <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 142455.jpg" crc="84406528" seo="true" ref="igivemore"/>
     <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 142455_2x.jpg" crc="458243974" seo="true" ref="igivemore"/>
-    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 142446.jpg" crc="4076195482" seo="true" ref="igivemore"/>
-    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 142446_2x.jpg" crc="4104236920" seo="true" ref="igivemore"/>
     <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 142516.jpg" crc="438624042" seo="true" ref="igivemore"/>
     <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 142516_2x.jpg" crc="3943853669" seo="true" ref="igivemore"/>
     <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 141331.jpg" crc="3991868011" seo="true" ref="igivemore"/>
     <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 141331_2x.jpg" crc="3855016577" seo="true" ref="igivemore"/>
     <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 121655.jpg" crc="4186999370" seo="true" ref="igivemore"/>
     <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 121655_2x.jpg" crc="464026337" seo="true" ref="igivemore"/>
-    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 113137.jpg" crc="152716167" seo="true" ref="igivemore"/>
-    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 113137_2x.jpg" crc="3810591776" seo="true" ref="igivemore"/>
-    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 162018.jpg" crc="272136411" seo="true" ref="igivemore"/>
-    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 162018_2x.jpg" crc="418352353" seo="true" ref="igivemore"/>
     <file name="breezi_placeit-2168x45.jpg" crc="3785861054" seo="true" ref="igivemore"/>
     <file name="breezi_placeit-2168x45_2x.jpg" crc="465153969" seo="true" ref="igivemore"/>
     <file name="breezi_placeit68x45.jpg" crc="3927869143" seo="true" ref="igivemore"/>
     <file name="breezi_placeit68x45_2x.jpg" crc="270034381" seo="true" ref="igivemore"/>
-    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 11313764x45.jpg" crc="28520862" seo="true" ref="igivemore"/>
-    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 11313764x45_2x.jpg" crc="140368160" seo="true" ref="igivemore"/>
     <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 14150261x45.jpg" crc="4156363506" seo="true" ref="igivemore"/>
     <file name="3ebeb776-d578-4b97-b17f-5957645da7d1__screenshot 2013-12-04 14150261x45_2x.jpg" crc="50930735" seo="true" ref="igivemore"/>
     <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 14230560x46.jpg" crc="223477637" seo="true" ref="igivemore"/>
     <file name="8e0c7bec-f593-490c-96cb-28acc509edb6__screenshot 2013-12-04 14230560x46_2x.jpg" crc="352142320" seo="true" ref="igivemore"/>
-    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 11305164x45.jpg" crc="3777855277" seo="true" ref="igivemore"/>
-    <file name="24c9e020-ca48-48f0-b842-3ca7ae580566__screenshot 2013-12-10 11305164x45_2x.jpg" crc="351124952" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 11313764x45.jpg" crc="28520862" seo="true" ref="igivemore"/>
+    <file name="00e15d1a-3b44-46d7-bd36-74c9784a414f__screenshot 2013-12-10 11313764x45_2x.jpg" crc="140368160" seo="true" ref="igivemore"/>
     <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 14245262x45.jpg" crc="59692535" seo="true" ref="igivemore"/>
     <file name="153ca279-ae32-40cb-aa1b-9b14534f8e95__screenshot 2013-12-04 14245262x45_2x.jpg" crc="115048451" seo="true" ref="igivemore"/>
-    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 14295162x45.jpg" crc="3848427578" seo="true" ref="igivemore"/>
-    <file name="480f05f7-5cae-49df-b50d-291c55269220__screenshot 2013-12-04 14295162x45_2x.jpg" crc="4177852989" seo="true" ref="igivemore"/>
     <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 14250661x45.jpg" crc="399828495" seo="true" ref="igivemore"/>
     <file name="613836db-f0da-42ae-acb4-a8af2c440870__screenshot 2013-12-04 14250661x45_2x.jpg" crc="101509281" seo="true" ref="igivemore"/>
     <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 14245562x45.jpg" crc="218710816" seo="true" ref="igivemore"/>
     <file name="aa8e9beb-bf56-404b-8931-de852730e2a4__screenshot 2013-12-04 14245562x45_2x.jpg" crc="176583494" seo="true" ref="igivemore"/>
-    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 14244660x45.jpg" crc="4200464811" seo="true" ref="igivemore"/>
-    <file name="e054008a-ad60-44e4-948d-3263391f5cff__screenshot 2013-12-04 14244660x45_2x.jpg" crc="3929596618" seo="true" ref="igivemore"/>
     <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 14251661x45.jpg" crc="4096467907" seo="true" ref="igivemore"/>
     <file name="f0d53692-d5a9-4c75-b47d-fb20a33ec6e3__screenshot 2013-12-04 14251661x45_2x.jpg" crc="126646036" seo="true" ref="igivemore"/>
     <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 14133168x45.jpg" crc="4044538333" seo="true" ref="igivemore"/>
     <file name="f06c5d89-6335-4997-9750-0798a99fe80e__screenshot 2013-12-04 14133168x45_2x.jpg" crc="3789247875" seo="true" ref="igivemore"/>
     <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 12165568x45.jpg" crc="383040061" seo="true" ref="igivemore"/>
     <file name="f6ca9bb8-73b3-4912-9a83-f89cb43efd65__screenshot 2013-12-10 12165568x45_2x.jpg" crc="3955342262" seo="true" ref="igivemore"/>
-    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 11313764x45.jpg" crc="4257135479" seo="true" ref="igivemore"/>
-    <file name="fa74e131-3bd3-4149-93fd-ec9320dbbb71__screenshot 2013-12-10 11313764x45_2x.jpg" crc="4270608718" seo="true" ref="igivemore"/>
-    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 16201860x56.jpg" crc="4030438732" seo="true" ref="igivemore"/>
-    <file name="434788d2-de36-4387-bf71-71354c7907cf__screenshot 2013-12-13 16201860x56_2x.jpg" crc="276754030" seo="true" ref="igivemore"/>
     <file name="musket.png" crc="486359700" seo="true" ref="musketeers"/>
     <file name="musket_2x.png" crc="496424481" seo="true" ref="musketeers"/>
     <file name="2_logo.jpg" crc="4111072582" seo="true" ref="musketeers"/>
@@ -236,10 +492,10 @@
     <file name="29011102.jpg" crc="525046933" seo="true" ref="computerarts"/>
     <file name="29011103.jpg" crc="222169345" seo="true" ref="computerarts"/>
   </folder>
-  <file name="index.html" crc="347975295" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="tany.html" crc="117850961" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="igivemore.html" crc="273719031" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="musketeers.html" crc="4100136066" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="computerarts.html" crc="320270783" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="thejamfactory.html" crc="4223783205" seo="true" mt="1461968471539" redirect="true"/>
+  <file name="index.html" crc="3919634987" seo="true" mt="1462047732598" redirect="true"/>
+  <file name="tany.html" crc="347787798" seo="true" mt="1462047661364" redirect="true"/>
+  <file name="igivemore.html" crc="110082348" seo="true" mt="1461973470192" redirect="true"/>
+  <file name="musketeers.html" crc="470569746" seo="true" mt="1461968471539" redirect="true"/>
+  <file name="computerarts.html" crc="3786943360" seo="true" mt="1461968471539" redirect="true"/>
+  <file name="thejamfactory.html" crc="4183236998" seo="true" mt="1461968471539" redirect="true"/>
 </manifest>
