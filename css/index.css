@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000018;
-	background-color: #2037E3;
+	color: #0000F7;
+	background-color: #551A93;
 }
 
 .js body
@@ -20,7 +20,7 @@
 	border-color: transparent;
 	border-width: 0px;
 	background-image: none;
-	background-color: transparent;
+	background-color: #FFFFFF;
 	padding-bottom: 0px;
 	width: 100%;
 	z-index: 1;
@@ -349,7 +349,7 @@
 
 #u801
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	padding-bottom: 53px;
 	z-index: 2;
 	min-height: 370px;
@@ -730,7 +730,7 @@
 
 #u1661
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	z-index: 3;
 }
 
@@ -792,7 +792,7 @@
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #29ABE2;
 }
 
 body
