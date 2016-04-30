@@ -1,13 +1,15 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1462049162474">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1462055703092">
   <folder name="css">
     <file name="site_global.css" crc="4015752830"/>
-    <file name="master_a-master.css" crc="276984904" ref="thejamfactory:computerarts:musketeers:igivemore:tany:index"/>
-    <file name="thejamfactory.css" crc="149006873" ref="thejamfactory"/>
+    <file name="master_a-master.css" crc="344093633" ref="thejamfactory:computerarts:musketeers:igivemore:tany:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="thejamfactory:computerarts:musketeers:igivemore:tany:index"/>
+    <file name="thejamfactory.css" crc="341956474" ref="thejamfactory"/>
     <file name="computerarts.css" crc="374299647" ref="computerarts"/>
     <file name="musketeers.css" crc="4170173738" ref="musketeers"/>
     <file name="igivemore.css" crc="33102298" ref="igivemore"/>
     <file name="tany.css" crc="4041350526" ref="tany"/>
-    <file name="index.css" crc="4020108276" ref="index"/>
+    <file name="index.css" crc="4114958677" ref="index"/>
+    <file name="nomq_index.css" crc="102339356" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tany:igivemore:musketeers:computerarts:thejamfactory"/>
@@ -16,6 +18,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index:tany:igivemore:musketeers:computerarts:thejamfactory"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
     <file name="webpro.js" crc="329496574" ref="tany:igivemore:musketeers"/>
     <file name="musewpslideshow.js" crc="394033048" ref="tany:igivemore:musketeers"/>
     <file name="jquery.museoverlay.js" crc="4265131668" ref="tany:igivemore:musketeers"/>
@@ -48,39 +51,69 @@
     <file name="12068435_10154522981973868_3597765353168107639_o_2x.jpg" crc="344580333" ref="index"/>
     <file name="me_bw.png" crc="165214287" ref="index"/>
     <file name="me_bw_2x.png" crc="333703690" ref="index"/>
-    <file name="nhk.png" crc="3860089195" seo="true" ref="index"/>
-    <file name="nhk_2x.png" crc="4233766545" seo="true" ref="index"/>
-    <file name="idn.png" crc="4217606220" seo="true" ref="index"/>
-    <file name="idn_2x.png" crc="320784267" seo="true" ref="index"/>
-    <file name="motiono.png" crc="3985880560" seo="true" ref="index"/>
-    <file name="motiono_2x.png" crc="427295156" seo="true" ref="index"/>
-    <file name="comarts.png" crc="16455349" seo="true" ref="index"/>
-    <file name="comarts_2x.png" crc="261393165" seo="true" ref="index"/>
-    <file name="aday.png" crc="39163575" seo="true" ref="index"/>
-    <file name="aday_2x.png" crc="181550925" seo="true" ref="index"/>
+    <file name="nhk98x11.png" crc="4201004347" seo="true" ref="index"/>
+    <file name="nhk98x11_2x.png" crc="495775031" seo="true" ref="index"/>
+    <file name="idn51x32.png" crc="4022915684" seo="true" ref="index"/>
+    <file name="idn51x32_2x.png" crc="410062338" seo="true" ref="index"/>
+    <file name="motiono115x16.png" crc="4118912305" seo="true" ref="index"/>
+    <file name="motiono115x16_2x.png" crc="433913243" seo="true" ref="index"/>
+    <file name="comarts82x35.png" crc="72598960" seo="true" ref="index"/>
+    <file name="comarts82x35_2x.png" crc="167279061" seo="true" ref="index"/>
+    <file name="aday68x23.png" crc="81160067" seo="true" ref="index"/>
+    <file name="aday68x23_2x.png" crc="272090477" seo="true" ref="index"/>
     <file name="voiceofny.png" crc="368670927" seo="true" ref="index"/>
     <file name="voiceofny_2x.png" crc="3899476436" seo="true" ref="index"/>
-    <file name="jamfac.png" crc="4291701571" seo="true" ref="index"/>
-    <file name="jamfac_2x.png" crc="291368518" seo="true" ref="index"/>
-    <file name="sxsw.png" crc="4246521433" seo="true" ref="index"/>
-    <file name="sxsw_2x.png" crc="94696841" seo="true" ref="index"/>
-    <file name="makerfaire.png" crc="4101721601" seo="true" ref="index"/>
-    <file name="makerfaire_2x.png" crc="4110764582" seo="true" ref="index"/>
-    <file name="bacc.png" crc="3859589756" seo="true" ref="index"/>
-    <file name="bacc_2x.png" crc="3969594012" seo="true" ref="index"/>
-    <file name="ied.png" crc="4010866869" seo="true" ref="index"/>
-    <file name="ied_2x.png" crc="3794273249" seo="true" ref="index"/>
+    <file name="jamfac94x31.png" crc="4288804155" seo="true" ref="index"/>
+    <file name="jamfac94x31_2x.png" crc="401096185" seo="true" ref="index"/>
+    <file name="sxsw56x35.png" crc="363761037" seo="true" ref="index"/>
+    <file name="sxsw56x35_2x.png" crc="144655017" seo="true" ref="index"/>
+    <file name="makerfaire90x20.png" crc="3972529833" seo="true" ref="index"/>
+    <file name="makerfaire90x20_2x.png" crc="4205647775" seo="true" ref="index"/>
+    <file name="bacc80x40.png" crc="85120304" seo="true" ref="index"/>
+    <file name="bacc80x40_2x.png" crc="4218205815" seo="true" ref="index"/>
+    <file name="ied87x29.png" crc="4282347516" seo="true" ref="index"/>
+    <file name="ied87x29_2x.png" crc="444766555" seo="true" ref="index"/>
     <file name="sfpc-u1431.png" crc="3839667760" ref="index"/>
-    <file name="sfpc-u1431_2x.png" crc="145771793" ref="index"/>
-    <file name="parsons.png" crc="180340280" seo="true" ref="index"/>
-    <file name="parsons_2x.png" crc="3802733911" seo="true" ref="index"/>
-    <file name="30weeks.png" crc="190954752" seo="true" ref="index"/>
-    <file name="30weeks_2x.png" crc="3942019037" seo="true" ref="index"/>
+    <file name="sfpc-u1431_2x.png" crc="439323438" ref="index"/>
+    <file name="parsons151x48.png" crc="327615225" seo="true" ref="index"/>
+    <file name="parsons151x48_2x.png" crc="4004727860" seo="true" ref="index"/>
+    <file name="30weeks44x40.png" crc="476242627" seo="true" ref="index"/>
+    <file name="30weeks44x40_2x.png" crc="3765430076" seo="true" ref="index"/>
+    <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr2.png" crc="235482183" ref="index"/>
+    <file name="photo-1427477321886-abc24e8ce923_flip-u1133-fr_2x2.png" crc="3943701853" ref="index"/>
+    <file name="u1802-62.png" crc="4269196159" ref="index"/>
+    <file name="u1802-6_2x2.png" crc="3875960747" ref="index"/>
+    <file name="nhk.png" crc="4009760842" seo="true" ref="index"/>
+    <file name="nhk_2x.png" crc="77239355" seo="true" ref="index"/>
+    <file name="idn-u1419.png" crc="4193034914" ref="index"/>
+    <file name="idn-u1419_2x.png" crc="4085126868" ref="index"/>
+    <file name="motiono.png" crc="4248992051" seo="true" ref="index"/>
+    <file name="motiono_2x.png" crc="12040882" seo="true" ref="index"/>
+    <file name="comarts-u1417.png" crc="395294365" ref="index"/>
+    <file name="comarts-u1417_2x.png" crc="468216317" ref="index"/>
+    <file name="aday.png" crc="3872192626" seo="true" ref="index"/>
+    <file name="aday_2x.png" crc="75702511" seo="true" ref="index"/>
+    <file name="jamfac.png" crc="4252938893" seo="true" ref="index"/>
+    <file name="jamfac_2x.png" crc="401096185" seo="true" ref="index"/>
+    <file name="sxsw-u1433.png" crc="261760698" ref="index"/>
+    <file name="sxsw-u1433_2x.png" crc="4255516280" ref="index"/>
+    <file name="makerfaire-u1425.png" crc="347611941" ref="index"/>
+    <file name="makerfaire-u1425_2x.png" crc="333078108" ref="index"/>
+    <file name="bacc-u1415.png" crc="3781497970" ref="index"/>
+    <file name="bacc-u1415_2x.png" crc="522020082" ref="index"/>
+    <file name="ied.png" crc="271099107" seo="true" ref="index"/>
+    <file name="ied_2x.png" crc="4001882517" seo="true" ref="index"/>
+    <file name="sfpc-u14312.png" crc="3799558463" ref="index"/>
+    <file name="sfpc-u1431_2x2.png" crc="383135839" ref="index"/>
+    <file name="parsons.png" crc="7765821" seo="true" ref="index"/>
+    <file name="parsons_2x.png" crc="3985253992" seo="true" ref="index"/>
+    <file name="30weeks-u1411.png" crc="271129633" ref="index"/>
+    <file name="30weeks-u1411_2x.png" crc="481312810" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tany:igivemore:musketeers"/>
     <file name="logo_color.png" crc="431153753" seo="true" ref="tany"/>
     <file name="logo_color_2x.png" crc="431153753" seo="true" ref="tany"/>
     <file name="winning.jpg" crc="4258849014" seo="true" ref="tany"/>
     <file name="winning_2x.jpg" crc="4013580756" seo="true" ref="tany"/>
-    <file name="blank.gif" crc="4208392903" ref="tany:igivemore:musketeers"/>
     <file name="sketch.jpg" crc="162288653" seo="true" ref="tany"/>
     <file name="sketch_2x.jpg" crc="4136258219" seo="true" ref="tany"/>
     <file name="drafts.jpg" crc="4193158161" seo="true" ref="tany"/>
@@ -488,14 +521,18 @@
     <file name="musketeers_668x45_2x.jpg" crc="3784135412" seo="true" ref="musketeers"/>
     <file name="musketeers_7musketeers_568x45.jpg" crc="4221995670" seo="true" ref="musketeers"/>
     <file name="musketeers_7musketeers_568x45_2x.jpg" crc="254638658" seo="true" ref="musketeers"/>
-    <file name="29011101.jpg" crc="514901495" seo="true" ref="computerarts:thejamfactory"/>
+    <file name="29011101.jpg" crc="514901495" seo="true" ref="computerarts"/>
     <file name="29011102.jpg" crc="525046933" seo="true" ref="computerarts"/>
     <file name="29011103.jpg" crc="222169345" seo="true" ref="computerarts"/>
+    <file name="jam-u14173.png" crc="513951700" ref="thejamfactory"/>
+    <file name="jam-u14173_2x.png" crc="4024955886" ref="thejamfactory"/>
+    <file name="jam issue07 for mail 06062015.jpg" crc="4213148405" seo="true" ref="thejamfactory"/>
+    <file name="jayspaper.jpg" crc="4223477646" seo="true" ref="thejamfactory"/>
   </folder>
-  <file name="index.html" crc="4283396039" seo="true" mt="1462049138490" redirect="true"/>
-  <file name="tany.html" crc="4021442078" seo="true" mt="1462049108080" redirect="true"/>
-  <file name="igivemore.html" crc="4191420912" seo="true" mt="1461973470192" redirect="true"/>
-  <file name="musketeers.html" crc="229886295" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="computerarts.html" crc="3951815453" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="thejamfactory.html" crc="4259865618" seo="true" mt="1461968471539" redirect="true"/>
+  <file name="index.html" crc="4132371213" seo="true" mt="1462055651126" redirect="true"/>
+  <file name="tany.html" crc="4067789476" seo="true" mt="1462049108080" redirect="true"/>
+  <file name="igivemore.html" crc="207651923" seo="true" mt="1461973470192" redirect="true"/>
+  <file name="musketeers.html" crc="3980991102" seo="true" mt="1461968471539" redirect="true"/>
+  <file name="computerarts.html" crc="280174297" seo="true" mt="1461968471539" redirect="true"/>
+  <file name="thejamfactory.html" crc="3897074287" seo="true" mt="1462055630492" redirect="true"/>
 </manifest>
