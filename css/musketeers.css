@@ -1,7 +1,7 @@
 .version.musketeers /* version checker */
 {
-	color: #00000B;
-	background-color: #6E5801;
+	color: #0000E3;
+	background-color: #B76CAE;
 }
 
 #muse_css_mq
@@ -74,12 +74,18 @@
 #u14265
 {
 	z-index: 2;
+	min-height: 264px;
 	background-color: #FFFFFF;
 	padding-bottom: 55px;
-	top: -112px;
-	margin-bottom: -112px;
+}
+
+#u14265_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
 	position: relative;
-	width: 100%;
+	max-width: 960px;
+	margin-bottom: -112px;
 }
 
 #u4161
@@ -157,6 +163,23 @@
 	line-height: 20px;
 }
 
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u14265-bw
+{
+	z-index: 2;
+	min-height: 264px;
+	margin-top: -112px;
+}
+
 #u4161_img,#pu3696
 {
 	width: 100%;
@@ -167,16 +190,6 @@
 	z-index: 3;
 	height: 464px;
 	background-color: #242424;
-}
-
-.js body
-{
-	visibility: hidden;
-}
-
-.js body.initialized
-{
-	visibility: visible;
 }
 
 #u3696-bw

@@ -1,7 +1,7 @@
 .version.tany /* version checker */
 {
-	color: #0000F8;
-	background-color: #7B2EC4;
+	color: #0000EC;
+	background-color: #569BDE;
 }
 
 #muse_css_mq
@@ -74,12 +74,18 @@
 #u14262
 {
 	z-index: 5;
+	min-height: 353px;
 	background-color: #FFFFFF;
 	padding-bottom: 55px;
-	top: -111px;
-	margin-bottom: -111px;
+}
+
+#u14262_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
 	position: relative;
-	width: 100%;
+	max-width: 960px;
+	margin-bottom: -111px;
 }
 
 #u2040
@@ -157,6 +163,23 @@
 	line-height: 20px;
 }
 
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u14262-bw
+{
+	z-index: 5;
+	min-height: 353px;
+	margin-top: -111px;
+}
+
 #u2288
 {
 	z-index: 2;
@@ -180,16 +203,6 @@
 	margin-top: 30px;
 	width: 50.94%;
 	left: 2.09%;
-}
-
-.js body
-{
-	visibility: hidden;
-}
-
-.js body.initialized
-{
-	visibility: visible;
 }
 
 #u2288-bw
