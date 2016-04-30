@@ -1,7 +1,7 @@
 .version.tany /* version checker */
 {
-	color: #0000F0;
-	background-color: #E21D7E;
+	color: #00001B;
+	background-color: #7C88F1;
 }
 
 #page
@@ -1049,7 +1049,7 @@
 	z-index: 3;
 	min-height: 98px;
 	background-color: #242424;
-	padding-bottom: 721px;
+	padding-bottom: 664px;
 }
 
 #u2288_align_to_page,#u2543_align_to_page,#u5473_align_to_page
@@ -1087,7 +1087,7 @@
 {
 	z-index: 71;
 	width: 0.01px;
-	height: 722px;
+	height: 667px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 84px;
@@ -1955,7 +1955,7 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 72px;
+	padding-bottom: 17px;
 }
 
 #u5408popup

@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1462055703092">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chingcha.cc" resolutions="1x,2x" timestamp="1462056173487">
   <folder name="css">
     <file name="site_global.css" crc="4015752830"/>
     <file name="master_a-master.css" crc="344093633" ref="thejamfactory:computerarts:musketeers:igivemore:tany:index"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="thejamfactory:computerarts:musketeers:igivemore:tany:index"/>
-    <file name="thejamfactory.css" crc="341956474" ref="thejamfactory"/>
-    <file name="computerarts.css" crc="374299647" ref="computerarts"/>
+    <file name="thejamfactory.css" crc="389654324" ref="thejamfactory"/>
+    <file name="computerarts.css" crc="530360733" ref="computerarts"/>
     <file name="musketeers.css" crc="4170173738" ref="musketeers"/>
-    <file name="igivemore.css" crc="33102298" ref="igivemore"/>
-    <file name="tany.css" crc="4041350526" ref="tany"/>
-    <file name="index.css" crc="4114958677" ref="index"/>
+    <file name="igivemore.css" crc="4245948479" ref="igivemore"/>
+    <file name="tany.css" crc="461146353" ref="tany"/>
+    <file name="index.css" crc="404764643" ref="index"/>
     <file name="nomq_index.css" crc="102339356" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -529,10 +529,10 @@
     <file name="jam issue07 for mail 06062015.jpg" crc="4213148405" seo="true" ref="thejamfactory"/>
     <file name="jayspaper.jpg" crc="4223477646" seo="true" ref="thejamfactory"/>
   </folder>
-  <file name="index.html" crc="4132371213" seo="true" mt="1462055651126" redirect="true"/>
-  <file name="tany.html" crc="4067789476" seo="true" mt="1462049108080" redirect="true"/>
-  <file name="igivemore.html" crc="207651923" seo="true" mt="1461973470192" redirect="true"/>
-  <file name="musketeers.html" crc="3980991102" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="computerarts.html" crc="280174297" seo="true" mt="1461968471539" redirect="true"/>
-  <file name="thejamfactory.html" crc="3897074287" seo="true" mt="1462055630492" redirect="true"/>
+  <file name="index.html" crc="19456603" seo="true" mt="1462055651126" redirect="true"/>
+  <file name="tany.html" crc="219716444" seo="true" mt="1462056092915" redirect="true"/>
+  <file name="igivemore.html" crc="465744815" seo="true" mt="1462056066740" redirect="true"/>
+  <file name="musketeers.html" crc="535974007" seo="true" mt="1461968471539" redirect="true"/>
+  <file name="computerarts.html" crc="56334814" seo="true" mt="1462055849272" redirect="true"/>
+  <file name="thejamfactory.html" crc="4250421336" seo="true" mt="1462055826264" redirect="true"/>
 </manifest>

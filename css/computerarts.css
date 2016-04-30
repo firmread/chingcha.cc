@@ -1,17 +1,18 @@
 .version.computerarts /* version checker */
 {
-	color: #000016;
-	background-color: #4F5BFF;
+	color: #00001F;
+	background-color: #9CA99D;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 500px;
+	min-height: 499.97833333333347px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	padding-bottom: 0px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -26,7 +27,7 @@
 
 #u1575
 {
-	z-index: 15;
+	z-index: 14;
 	height: 10px;
 	position: fixed;
 	top: 10px;
@@ -34,12 +35,12 @@
 
 #u1575-bw
 {
-	z-index: 15;
+	z-index: 14;
 }
 
 #u1572-10
 {
-	z-index: 16;
+	z-index: 15;
 	position: fixed;
 	top: 9px;
 	left: 5px;
@@ -47,7 +48,7 @@
 
 #u105-10
 {
-	z-index: 35;
+	z-index: 34;
 	position: fixed;
 	top: 4px;
 	left: 0px;
@@ -55,7 +56,7 @@
 
 #u102
 {
-	z-index: 45;
+	z-index: 44;
 	height: 10px;
 	position: fixed;
 	top: 0px;
@@ -63,7 +64,7 @@
 
 #u102-bw
 {
-	z-index: 45;
+	z-index: 44;
 }
 
 #u4829-6
@@ -120,39 +121,14 @@
 	left: 1px;
 }
 
-#pu4954
-{
-	margin-top: 39px;
-	width: 100%;
-}
-
-#u4954
-{
-	z-index: 14;
-	height: 220px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 745px;
-	width: 4.59%;
-	left: 11.25%;
-}
-
-.ie #u4954
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
 #u4939
 {
 	z-index: 12;
 	background-color: transparent;
+	margin-top: 39px;
 	position: relative;
-	margin-right: -10000px;
 	width: 63.23%;
-	left: 18.44%;
+	margin-left: 18.44%;
 }
 
 #u4924_img,#u4932_img,#u4939_img
@@ -162,7 +138,7 @@
 
 #u133
 {
-	z-index: 26;
+	z-index: 25;
 	min-height: 115px;
 	padding-bottom: 36px;
 }
@@ -176,7 +152,7 @@
 
 #u154-8
 {
-	z-index: 27;
+	z-index: 26;
 	width: 165px;
 	min-height: 20px;
 	position: relative;
@@ -198,7 +174,7 @@
 
 #u133-bw
 {
-	z-index: 26;
+	z-index: 25;
 	min-height: 115px;
 }
 
