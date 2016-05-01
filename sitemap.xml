@@ -13,12 +13,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chingcha.cc/images/breezi_placeit-21.jpg</loc>
-    <lastmod>2016-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://chingcha.cc/images/igm101x19.png</loc>
     <lastmod>2016-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,12 +20,6 @@
   </url>
   <url>
     <loc>http://chingcha.cc/images/igm101x19_2x.png</loc>
-    <lastmod>2016-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chingcha.cc/images/musketeers_4.jpg</loc>
     <lastmod>2016-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2611,8 +2599,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://chingcha.cc/images/breezi_placeit-212.jpg</loc>
+    <lastmod>2016-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chingcha.cc/images/musketeers_42.jpg</loc>
+    <lastmod>2016-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://chingcha.cc/index.html</loc>
-    <lastmod>2016-04-30</lastmod>
+    <lastmod>2016-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2636,13 +2636,13 @@
   </url>
   <url>
     <loc>http://chingcha.cc/computerarts.html</loc>
-    <lastmod>2016-04-30</lastmod>
+    <lastmod>2016-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://chingcha.cc/thejamfactory.html</loc>
-    <lastmod>2016-04-30</lastmod>
+    <lastmod>2016-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
