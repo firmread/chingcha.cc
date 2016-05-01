@@ -1,7 +1,7 @@
 .version.musketeers /* version checker */
 {
-	color: #0000F6;
-	background-color: #CF13AA;
+	color: #000017;
+	background-color: #2DC2E3;
 }
 
 .js body
@@ -36,21 +36,21 @@
 #u1575
 {
 	top: 10px;
-	z-index: 95;
+	z-index: 96;
 	position: fixed;
 	height: 10px;
 }
 
 #u1575-bw
 {
-	z-index: 95;
+	z-index: 96;
 }
 
 #u1572-10
 {
 	top: 9px;
 	left: 5px;
-	z-index: 96;
+	z-index: 97;
 	position: fixed;
 }
 
@@ -58,28 +58,28 @@
 {
 	top: 4px;
 	left: 0px;
-	z-index: 115;
+	z-index: 116;
 	position: fixed;
 }
 
 #u102
 {
 	top: 0px;
-	z-index: 125;
+	z-index: 126;
 	position: fixed;
 	height: 10px;
 }
 
 #u102-bw
 {
-	z-index: 125;
+	z-index: 126;
 }
 
 #u14265
 {
-	padding-bottom: 112px;
 	background-color: #FFFFFF;
 	z-index: 2;
+	min-height: 282px;
 }
 
 #u14265_align_to_page
@@ -99,7 +99,7 @@
 	position: relative;
 }
 
-#u3531-9
+#u3531-10
 {
 	z-index: 86;
 	margin-right: -10000px;
@@ -120,11 +120,11 @@
 
 #u3531-3
 {
-	line-height: 18px;
+	line-height: 25px;
 	font-size: 18px;
 }
 
-#u3531-4,#u3531-7
+#u3531-4,#u3531-6
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
@@ -136,15 +136,15 @@
 	color: #7F7F7F;
 }
 
-#u3531-6
+#u3531-7,#u3531-8
 {
-	line-height: 24px;
-	font-size: 24px;
+	line-height: 36px;
 }
 
 #u14265-bw
 {
 	z-index: 2;
+	min-height: 282px;
 	margin-top: -112px;
 }
 
@@ -687,7 +687,7 @@
 #u133
 {
 	padding-bottom: 36px;
-	z-index: 106;
+	z-index: 107;
 	min-height: 115px;
 }
 
@@ -704,7 +704,7 @@
 	min-height: 20px;
 	margin-right: -10000px;
 	margin-top: 76px;
-	z-index: 107;
+	z-index: 108;
 	width: 165px;
 	position: relative;
 	margin-left: 100%;
@@ -712,7 +712,7 @@
 
 #u133-bw
 {
-	z-index: 106;
+	z-index: 107;
 	min-height: 115px;
 }
 
@@ -738,6 +738,11 @@ body
 		display: block;
 	}
 
+	#u14265
+	{
+		padding-bottom: 112px;
+	}
+
 	#page,#u14265_align_to_page
 	{
 		max-width: 960px;
@@ -749,15 +754,10 @@ body
 		left: 6.67%;
 	}
 
-	#u3531-9
+	#u3531-10
 	{
 		width: 55.01%;
 		left: 34.69%;
-	}
-
-	#u14265,#u14265-bw
-	{
-		min-height: 264px;
 	}
 
 	#u3696,#u3696-bw
@@ -768,7 +768,7 @@ body
 	#slideshowu3504
 	{
 		height: 412px;
-		margin-top: 30px;
+		margin-top: 12px;
 		left: 2.09%;
 	}
 
@@ -874,6 +874,11 @@ body
 		display: block;
 	}
 
+	#u14265
+	{
+		padding-bottom: 92px;
+	}
+
 	#page,#u14265_align_to_page
 	{
 		max-width: 923px;
@@ -885,15 +890,10 @@ body
 		left: 6.61%;
 	}
 
-	#u3531-9
+	#u3531-10
 	{
 		width: 55.04%;
 		left: 34.78%;
-	}
-
-	#u14265,#u14265-bw
-	{
-		min-height: 262px;
 	}
 
 	#u3696,#u3696-bw

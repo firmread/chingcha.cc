@@ -8,6 +8,12 @@
 		display: block;
 	}
 
+	#u14268
+	{
+		min-height: 309px;
+		padding-bottom: 90px;
+	}
+
 	#page,#u14268_align_to_page
 	{
 		max-width: 960px;
@@ -19,15 +25,15 @@
 		left: 7.71%;
 	}
 
-	#u3290-11
+	#u3290-13
 	{
 		width: 55.01%;
 		left: 34.69%;
 	}
 
-	#u14268,#u14268-bw
+	#u14268-bw
 	{
-		min-height: 270px;
+		min-height: 309px;
 	}
 
 	#u3288,#u3288-bw

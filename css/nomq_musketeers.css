@@ -8,6 +8,11 @@
 		display: block;
 	}
 
+	#u14265
+	{
+		padding-bottom: 112px;
+	}
+
 	#page,#u14265_align_to_page
 	{
 		max-width: 960px;
@@ -19,15 +24,10 @@
 		left: 6.67%;
 	}
 
-	#u3531-9
+	#u3531-10
 	{
 		width: 55.01%;
 		left: 34.69%;
-	}
-
-	#u14265,#u14265-bw
-	{
-		min-height: 264px;
 	}
 
 	#u3696,#u3696-bw
@@ -38,7 +38,7 @@
 	#slideshowu3504
 	{
 		height: 412px;
-		margin-top: 30px;
+		margin-top: 12px;
 		left: 2.09%;
 	}
 
